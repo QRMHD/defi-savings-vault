@@ -12,5 +12,5 @@ An Internet Computer (ICP) decentralized application simulating an automated com
 ## Tech Stack
 
 * **Smart Contract / Backend:** Motoko, DFX SDK
-* **Frontend:** React 18[cite: 3], TypeScript, Vite
+* **Frontend:** React 18, TypeScript, Vite
 * **Styling:** CSS3 (Dark Mode Vault UI)
