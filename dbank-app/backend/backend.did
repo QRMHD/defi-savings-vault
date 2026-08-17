@@ -1,5 +1,0 @@
-service : {
-  "checkBalance": () -> (float64) query;
-  "topUp": (float64) -> (float64);
-  "withdraw": (float64) -> (text);
-}
