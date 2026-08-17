@@ -1,6 +1,6 @@
 # DeFi Savings Vault
 
-An Internet Computer (ICP) decentralized application simulating an automated compound yield savings vault. The Motoko backend computes continuous compound interest based on elapsed time epochs, while the React and TypeScript frontend provides real-time balance updates, deposits, and withdrawal management[cite: 3].
+An Internet Computer (ICP) decentralized application simulating an automated compound yield savings vault. The Motoko backend computes continuous compound interest based on elapsed time epochs, while the React and TypeScript frontend provides real-time balance updates, deposits, and withdrawal management.
 
 ## Features
 
